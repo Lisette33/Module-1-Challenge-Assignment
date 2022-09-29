@@ -8,7 +8,7 @@ Web Accessibility for Business Performance
 Lisette Morales
 
 ## Deployment URL
-
+[https://lisette33.github.io/Module-1-Web-Accessibility-for-Business-Performance-/](https://lisette33.github.io/Module-1-Web-Accessibility-for-Business-Performance-/)
 
 ## Description
 The project indicates web accessibility on a website for the user. Web accessibility provides people with disabilities to have access to technnologies for the web. Also, businesses can improve their performance by having web accessibility on their websites for users. Businesses using web accesibility benefit with search engines, in which they can be higher-ranking within search engines. Thus, web accessibility can improve the online experience.
